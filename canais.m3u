@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="NordesteFC.br" tvg-name="COPA DO NORDESTE 2022 HD 01" tvg-logo="https://seeklogo.com/images/C/copa-do-nordeste-logo-7115C18A3F-seeklogo.com.png" group-title=" Canais | Futebol Estaduais",COPA DO NORDESTE 2022 HD 01
-http://s.pdsrv.io:80/akz9XQ/ZRyDH6/103643
-#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 1" tvg-logo="https://app.maisbolao.com.br/arquivos/campeonato/0392705c-936c-4b06-bcb1-2b39b5b0be10.png" group-title=" Canais | Futebol Estaduais",COPA DO NORDESTE 1
-http://s.pdsrv.io:80/akz9XQ/ZRyDH6/96587
-#EXTINF:-1 tvg-id="NordesteFC.br" tvg-name="COPA DO NORDESTE 2022 HD 02" tvg-logo="https://seeklogo.com/images/C/copa-do-nordeste-logo-7115C18A3F-seeklogo.com.png" group-title=" Canais | Futebol Estaduais",COPA DO NORDESTE 2022 HD 02
-http://s.pdsrv.io:80/akz9XQ/ZRyDH6/104140
-#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 2" tvg-logo="https://app.maisbolao.com.br/arquivos/campeonato/0392705c-936c-4b06-bcb1-2b39b5b0be10.png" group-title=" Canais | Futebol Estaduais",COPA DO NORDESTE 2
-http://s.pdsrv.io:80/akz9XQ/ZRyDH6/96588
 #EXTINF:-1 tvg-id="" tvg-name="STAR+ HD³" tvg-logo="https://1.bp.blogspot.com/-kXyNAUwNd-M/YBsMa9crLkI/AAAAAAAB_U0/Gl9zFLI-R-8lBOvfP_kFNL9IMRBk9LtbQCLcBGAsYHQ/s810/canais%2BStar.png" group-title="Canais | Esportes PPV",STAR+ HD³
 http://s.pdsrv.io:80/akz9XQ/ZRyDH6/100842
 #EXTINF:-1 tvg-id="" tvg-name="STAR+ 2 HD³" tvg-logo="https://1.bp.blogspot.com/-kXyNAUwNd-M/YBsMa9crLkI/AAAAAAAB_U0/Gl9zFLI-R-8lBOvfP_kFNL9IMRBk9LtbQCLcBGAsYHQ/s810/canais%2BStar.png" group-title="Canais | Esportes PPV",STAR+ 2 HD³
